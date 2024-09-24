@@ -20,6 +20,7 @@ This project is a real-time multiplayer chess game built with Node.js and socket
 - **Socket.io**: Library for real-time web applications
 - **Chess.js**: JavaScript chess library for handling game logic
 - **EJS**: Template engine for rendering HTML views
+- **JavaScript**: Frontend Logic
 
 ## Installation
 
